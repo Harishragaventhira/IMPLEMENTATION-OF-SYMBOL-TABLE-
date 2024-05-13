@@ -1,7 +1,7 @@
 # Ex-2 IMPLEMENTATION-OF-SYMBOL-TABLE
 # DATE : 14.02.2024
-# NAME : Akash A
-# REGISTER NUMBER:212221040010
+# NAME : HARISH S
+# REGISTER NUMBER:212223230072
 # AIM :
 To write a C program to implement a symbol table.
 ## To write a C program to implement a symbol table.
